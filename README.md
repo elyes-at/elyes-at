@@ -4,10 +4,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on: **WordPress / WooCommerce / Custom Plugins**
-- 🌱 I’m currently learning: **Modern JS, React, Performance Optimization**
-- 💬 Ask me about: **WordPress, PHP, WooCommerce, jQuery, SEO**
-- ⚡ Fun fact: I love turning complex problems into clean solutions 😄
+I’m a **WordPress / WooCommerce Developer** who loves turning business requirements into clean, high-performance code.
+
+- 🔥 I build custom themes, plugins, and WooCommerce systems  
+- 🛠️ Experienced with: PHP, JS, jQuery, MySQL, REST APIs  
+- 🚀 Focused on: speed, SEO, scalable architecture, UX improvements  
+- 🧠 Always learning: modern JS tooling, React, better developer workflows  
 
 ---
 
@@ -17,14 +19,6 @@
   <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,wordpress,woocommerce,react,nodejs,mysql,git,github,vscode" />
 </p>
 
----
-
-### 📌 Featured Projects
-- 🚀 **Pressoria Theme** – Multipurpose WordPress theme framework
-- 🛒 **WooCommerce Custom Extensions** – Custom taxonomies, rewrite rules, filters
-- ⚙️ **AJAX UX Enhancements** – Smooth loaders, dynamic content updates
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
