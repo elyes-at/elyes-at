@@ -16,7 +16,7 @@ I’m a **WordPress / WooCommerce Developer** who loves turning business require
 ### 🛠️ Tech Stack
 #### 💻 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,wordpress,woocommerce,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,sass,wordpress,bootstrap,tailwindcss,mysql,git,github,figma" />
 </p>
 
 
@@ -30,7 +30,7 @@ I’m a **WordPress / WooCommerce Developer** who loves turning business require
 
 ### 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyes-at&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,sass,wordpress,bootstrap"/>
 </p>
 
 ---
@@ -42,6 +42,9 @@ I’m a **WordPress / WooCommerce Developer** who loves turning business require
   </a>
   <a href="mailto:elyes.wp@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~011c53f0519dd244cf?mp_source=share">
+    <img src="https://images.seeklogo.com/logo-png/61/1/upwork-logo-png_seeklogo-615478.png" />
   </a>
 </p>
 
