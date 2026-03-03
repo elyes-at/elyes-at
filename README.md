@@ -44,5 +44,5 @@ I’m a **WordPress / WooCommerce Developer** who loves turning business require
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.upwork.com/freelancers/~011c53f0519dd244cf?mp_source=share">
- <img src="https://www.citypng.com/public/uploads/preview/png-upwork-square-black-logo-icon-701751694968608jsojhcgukz.png" style="width: 48px;" />
+ <img src="https://iconape.com/wp-content/png_logo_vector/cib-upwork.png" style="width: 48px;" />
   </a>
